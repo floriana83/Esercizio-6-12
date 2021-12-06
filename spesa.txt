@@ -1,0 +1,9 @@
+
+prodotto: mele, 
+quantità: 2 
+
+prodotto: banane, 
+quantità: 5 
+
+prodotto: mele, 
+quantità: 5 
